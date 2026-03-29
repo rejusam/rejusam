@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Dr%20Reju%20Sam%20John&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Computational%20Epidemiologist&descAlignY=60&descColor=caf0f8" width="100%" alt="header"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-rejusamjohn.pages.dev-0077b6?style=for-the-badge)](https://rejusamjohn.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reju-sam-john)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drrejusamjohn/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-169%2B%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5024-3700)
 [![Email](https://img.shields.io/badge/Email-rejusamjohn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rejusamjohn@gmail.com)
 
 </div>
