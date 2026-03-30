@@ -65,6 +65,8 @@ I'm a **Data Scientist & AI/ML Engineer** based in Auckland, New Zealand, with a
 
 | Project | Description | Stack |
 |---|---|---|
+| [📚 Data Science Field Guide](https://github.com/rejusam/ds-field-guide) | Project-first data science curriculum across 4 levels and 16 projects, grounded in Aotearoa New Zealand data — from EDA to MLOps |
+   Python · Jupyter · NLP · Computer Vision · MLOps |
 | [🤖 AI Diagnostic Evaluation](https://github.com/rejusam/ai-diagnostic-evaluation) | End-to-end ML evaluation framework simulating 10,000-patient cohorts to benchmark AI screening tools with equity analysis | Python · ML Pipeline · AUC-ROC |
 | [📊 Healthcare Quality Insights Dashboard](https://github.com/rejusam/healthcare-quality-insights-dashboard) | 7-module BI data product: KPI tracking, SPC charts, anomaly alerting & automated statistical reporting | Python · Streamlit · SPC |
 | [🌡️ Cooling System Monitor](https://github.com/rejusam/cooling-system-monitor) | ETL pipeline for UCI hydraulic sensor data (2,205 cycles, 17 sensors) with Z-score anomaly detection & Streamlit dashboard | Python · ETL · SQLite · Plotly |
