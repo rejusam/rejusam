@@ -70,8 +70,8 @@ I'm a **Data Scientist & AI/ML Engineer** based in Auckland, New Zealand, with a
 | [📊 Healthcare Quality Insights Dashboard](https://github.com/rejusam/healthcare-quality-insights-dashboard) | 7-module BI data product: KPI tracking, SPC charts, anomaly alerting & automated statistical reporting | Python · Streamlit · SPC |
 | [🌡️ Cooling System Monitor](https://github.com/rejusam/cooling-system-monitor) | ETL pipeline for UCI hydraulic sensor data (2,205 cycles, 17 sensors) with Z-score anomaly detection & Streamlit dashboard | Python · ETL · SQLite · Plotly |
 | [🧁 Bakery Sales Intelligence](https://github.com/rejusam/bakery-sales-intelligence) | Market basket analysis & temporal pattern detection with weather API integration for revenue optimisation | Python · Market Basket · Business Analytics |
-| [🦠 SEIR Metapopulation Model — China](https://github.com/rejusam/SEIR_metapopulation_China) | Large-scale SEIR transmission model across 340+ cities demonstrating travel time's diminishing impact in hyper-connected networks | Python · Simulation · Published |
-| [🐭 Lassa Virus Dynamics](https://github.com/rejusam/Modelling_Lassa_virus_dynamics) | Age-structured SICR model with sensitivity analysis revealing how human activity modifies zoonotic transmission risk | Python · ODE Modelling · Published |
+| [🦠 SEIR Metapopulation Model — China](https://github.com/rejusam/SEIR_metapopulation_China) | Large-scale SEIR transmission model across 340+ cities demonstrating travel time's diminishing impact in hyper-connected networks | Python · ODE Modelling. Coupled ordinary differential equation|
+| [🐭 Lassa Virus Dynamics](https://github.com/rejusam/Modelling_Lassa_virus_dynamics) | Age-structured SICR model with sensitivity analysis revealing how human activity modifies zoonotic transmission risk | Python · ODE Modelling|
 
 ---
 
